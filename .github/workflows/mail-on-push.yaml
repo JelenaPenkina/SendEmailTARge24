@@ -21,3 +21,4 @@ jobs:
             Changes:
           to: "jyri.vaitmaa@tthk.ee"
           from: "Github actions for ${{github.repository}}"
+          
